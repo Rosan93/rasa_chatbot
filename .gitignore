@@ -1,0 +1,5 @@
+# Ignore trained model
+./data/*~
+
+# Ignore vscode files
+.vscode/
